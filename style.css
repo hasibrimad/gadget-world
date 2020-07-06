@@ -1,5 +1,5 @@
 .container{
-padding-top: 50px;
+padding-top: 60px;
 }
 
 .btn{
@@ -37,4 +37,15 @@ ul li a:hover{
     color: black;
     background-color: rgb(170, 238, 210);
     text-decoration: none;
+}
+.ct1{
+    border: 1px solid slategrey transparent;
+    padding: 50px 50px;
+    box-shadow: 5px 5px 10px rgb(180, 175, 175);
+    border-radius: 10px;
+}
+#last{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
